@@ -1,6 +1,6 @@
 FROM php:7.2-cli-alpine
 
-LABEL Maintainer="Author" \
+LABEL Maintainer="kaylv" \
       Description="Lightweight php 7.2 container based on alpine with Swoole enabled, composer installed."
 
 # dependence
